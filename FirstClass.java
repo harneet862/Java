@@ -22,6 +22,10 @@ Components of program:
         void main(){
         }
     }
+
+System.out.print("Hello world");
+where system is a class and in java the line ends with semi colon
+and you can use single quotes as well
  * 
  */
 
